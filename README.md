@@ -43,7 +43,11 @@ jupyter notebook
 - `Skyrose_Craft_Beer.ipynb`, `Skyrose_Whisky.ipynb`, `Skyrose_White_Wine.ipynb` - analysis notebooks.
 - `README.md` - this file.
 - `requirements.txt` - Python package requirements.
-- `Skyrose_TimeSeries_Report.pdf` - concise project report.
+## 📄 Project Report
+
+A detailed report describing the motivation, methodology, forecasting models, evaluation metrics, and conclusions is available here:
+
+**[📄 View Project Report](Time_Series_Forecasting_Prajjwal_Aras.pdf)**
 
 ## Notes & Recommendations
 - For reproducibility, set a fixed random seed in notebooks where stochastic methods are used.
